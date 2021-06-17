@@ -1,0 +1,6 @@
+<map id="SortVisualizerForm.Algoritms.SelectionSort.Process" name="SortVisualizerForm.Algoritms.SelectionSort.Process">
+<area shape="rect" id="node1" title="Selection Sort algorithm." alt="" coords="5,39,201,80"/>
+<area shape="rect" id="node2" href="$class_sort_visualizer_form_1_1_algoritms_1_1_selection_sort.html#aadfe71bb40e152bbd922612432ea5d6d" title="Check our array, if it could be sorted." alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node3" href="$class_sort_visualizer_form_1_1_algoritms_1_1_selection_sort.html#ad5273a3c0d789109c6655e2c3c156bd2" title="One step for our algorithm" alt="" coords="249,71,445,112"/>
+<area shape="rect" id="node4" href="$class_sort_visualizer_form_1_1_algoritms_1_1_selection_sort.html#a93cc0be0919f2b819f091260d6047d8e" title="Draw our proccess on display." alt="" coords="493,71,741,112"/>
+</map>
